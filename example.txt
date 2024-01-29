@@ -1,3 +1,5 @@
 first edit by thoma
 
 this is second edit by thomas
+
+this is 3rd commit which is a merge
